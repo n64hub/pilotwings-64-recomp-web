@@ -12,8 +12,7 @@
 
 **Play it in the browser: https://n64hub.com/pilotwings-64/**, with your own dump of Pilotwings
 64 (USA), picked in the launcher and kept in the browser. It needs WebGPU (Chrome or Edge 113 and up, or Firefox). The
-page is built from this branch and published with N64Recomp-browser's `tools/publish_page.sh`, so it can be a commit or
-two behind.
+page is built from this branch, so it can be a commit or two behind.
 
 A native PC port of Pilotwings 64 for Windows and Linux, made by statically
 recompiling the game with [N64Recomp](https://github.com/N64Recomp/N64Recomp).
